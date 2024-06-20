@@ -11,7 +11,7 @@
 
 ---
 
-<h3 quote align='center'>That's what I love from Rock N Roll, and that's what I love from Music.</h3 quote>
+<h3 quote align='center'>“The best error message is the one that never shows up.” </h3 quote>
 
 ---
 
