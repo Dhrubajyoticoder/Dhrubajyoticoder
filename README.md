@@ -74,4 +74,7 @@
 [![Dhrubo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dhrubajyoticoder&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&area=true&hide_border=true)](https://github.com/Dhrubajyoticoder/github-readme-activity-graph)
 
 <h3 align="center">Visitor's count</h3>
-<p align="center"><img src="https://profile-counter.glitch.me/{Dhrubajyoti}/count.svg/" alt="Dhrubajyoti Visitor's count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{Dhrubajyoti}/count.svg/" alt="Dhrubajyoti Visitor's count" /></p> 
+<p align="center">
+<img src="https://github.com/Dhrubajyoticoder/Dhrubajyoticoder/assets/160788386/54310a54-e480-491d-b559-d4990c43af8b"/> </p>
+
